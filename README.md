@@ -2,8 +2,8 @@
 
 
 ### Contact Info
-- Twitter: [https://x.com/dkchaurasiya_](https://x.com/dkchaurasiya_)
-- LinkedIn: [https://www.linkedin.com/in/dkchaurasiya/](https://www.linkedin.com/in/dkchaurasiya/)
+- Twitter: [@dkchaurasiya_](https://x.com/dkchaurasiya_)
+- LinkedIn: [in/dkchaurasiya/](https://www.linkedin.com/in/dkchaurasiya/)
 
 
 
