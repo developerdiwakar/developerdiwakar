@@ -1,6 +1,10 @@
-Greeting from India!
+## Hi there👋,
 
-![developerdiwakar's Stats](https://github-readme-stats.vercel.app/api?username=developerdiwakar&theme=vue-dark&show_icons=true&hide_border=true&count_private=false) ![developerdiwakar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdiwakar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![developerdiwakar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=developerdiwakar&theme=vue-dark&hide_border=true)
+### GitHub stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerdiwakar&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developerdiwakar&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=developerdiwakar&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developerdiwakar&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developerdiwakar&theme=default&utcOffset=8)
